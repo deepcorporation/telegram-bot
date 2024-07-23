@@ -7,10 +7,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Token del bot obtenido del BotFather
-TOKEN = '7164312594:AAFM02rZbQYwhIu7Hus5Ur0aKVXvseutwsY'
-
-# ID del canal (puedes usar el nombre de usuario del canal precedido por @ o el ID numérico)
-CHANNEL_ID = '@Thotcrypt'  # Asegúrate de que este ID sea correcto
+TOKEN = 'TU_TOKEN_AQUI'
 
 # Diccionario con preguntas frecuentes y respuestas
 FAQ = {
@@ -47,18 +44,11 @@ async def help_command(update: Update, context):
 async def handle_document(update: Update, context):
     document = update.message.document
     await update.message.reply_text(f"Recibido documento: {document.file_name}")
-    await send_message_to_channel(f"Nuevo documento recibido: {document.file_name}")
 
 # Función para manejar imágenes
 async def handle_photo(update: Update, context):
     photo = update.message.photo[-1]  # Obtiene la foto más grande
     await update.message.reply_text(f"Recibida una foto con ID: {photo.file_id}")
-    await send_message_to_channel(f"Recibida una foto con ID: {photo.file_id}")
-
-# Función para enviar mensajes al canal
-async def send_message_to_channel(message: str):
-    application = Application.builder().token(TOKEN).build()
-    await application.bot.send_message(chat_id=CHANNEL_ID, text=message)
 
 def main():
     # Crea la instancia de la aplicación del bot
