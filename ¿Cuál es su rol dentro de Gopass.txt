@@ -1,0 +1,68 @@
+¿Cuál es su rol dentro de Gopass?
+[Mantener opciones originales]
+¿En qué departamento trabaja?
+[Mantener opciones originales]
+¿Qué funcionalidades considera esenciales en una plataforma de soporte técnico? (Seleccione todas las que apliquen)
+
+Sistema de gestión de tickets
+Base de conocimiento dinámica
+Respuestas automáticas a preguntas frecuentes
+Chat en vivo
+Integración con correo electrónico
+Análisis y reportes de soporte
+Otros: [campo abierto]
+
+
+¿Qué problemas específicos enfrenta al crear o dar seguimiento a tickets de soporte?
+[Campo de texto abierto]
+¿Qué características le gustaría ver en la base de conocimiento para facilitar la búsqueda de soluciones?
+[Campo de texto abierto]
+¿Con qué frecuencia encuentra dificultades al navegar por la actual plataforma de soporte?
+
+Nunca
+Rara vez
+A veces
+Frecuentemente
+Siempre
+
+
+¿Qué tan importante considera la implementación de una solución de IA para el soporte técnico en Gopass?
+[Mantener opciones originales]
+¿Qué funcionalidades de IA cree que serían más útiles para mejorar el soporte técnico? (Seleccione todas las que apliquen)
+
+Chatbots para respuestas automáticas
+Análisis predictivo de problemas comunes
+Recomendaciones personalizadas de soluciones
+Clasificación automática de tickets
+Detección de anomalías en sistemas
+Otros: [campo abierto]
+
+
+¿Cómo cree que una plataforma de IA para soporte técnico impactaría la satisfacción de los usuarios?
+[Mantener opciones originales]
+¿Qué aspectos del actual proceso de soporte técnico cree que necesitan mayor mejora? (Seleccione hasta 3)
+
+Tiempo de respuesta
+Precisión de las soluciones
+Facilidad de uso de la plataforma
+Seguimiento de tickets
+Comunicación con los usuarios
+Acceso a información relevante
+Otros: [campo abierto]
+
+
+¿Qué características adicionales le gustaría ver en una nueva plataforma de soporte técnico?
+[Campo de texto abierto]
+¿Cómo preferiría acceder a la plataforma de soporte técnico?
+
+Aplicación web
+Aplicación móvil
+Integración con software existente
+Correo electrónico
+Otros: [campo abierto]
+
+
+¿Qué tipo de reportes o análisis le sería más útil para mejorar el soporte técnico?
+[Campo de texto abierto]
+¿Recomendaría la implementación de una plataforma de gestión y respuestas a usuarios basada en IA en Gopass?
+[Mantener opciones originales]

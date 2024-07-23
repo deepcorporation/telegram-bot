@@ -1,0 +1,155 @@
+i
+Parece que esta es tu primera tarea calificada por los compañeros. Obtener más informacion
+
+¿Estás listo/a para la tarea?
+Abajo, encontrarás instrucciones para realizar el envío.
+Ya está aquí 
+
+Ha completado todas las tareas del proyecto final. Este proyecto vale el 50% de su nota final.
+
+Debe enviar los artefactos (capturas de pantalla) que serán calificados por sus compañeros, que también están completando esta tarea en la misma sesión. 
+
+Revise la sección Criterios de calificación para asegurarse de que ha completado todos los requisitos. 
+
+Tras confirmarlo, puede enviar sus respuestas para que las revisen sus compañeros.
+
+Aquí tiene un resumen de las actividades dentro de cada Tarea y el total de puntos para cada Tarea. 
+
+Nota: Deberá proporcionar capturas de pantalla claras de cada una de las actividades mencionadas a continuación para su calificación.
+
+Puntos totales: 16
+
+Tarea1: Clonar el repositorio del proyecto (1 punto)
+
+Estructura de la carpeta del repositorio
+
+Tarea 2: Cree una aplicación de detección de emociones utilizando la biblioteca Watson NLP (2 puntos)
+
+Escriba el código de la función de la aplicación
+
+Importe la aplicación sin errores
+
+Tarea 3: Dé formato a la salida de la aplicación (2 puntos)
+
+Modifique la función emotion_predictor con precisión para que devuelva el formato de salida proporcionado
+
+Compruebe que el formato de salida es exacto
+
+Tarea 4: Empaquete la aplicación (2 puntos)
+
+Cree la estructura de carpetas para empaquetar la aplicación y cree el archivo __init__.py
+
+Compruebe que la salida es la esperada
+
+Tarea 5: Ejecute pruebas unitarias en su aplicación (2 puntos)
+
+Cree las pruebas unitarias necesarias
+
+Ejecute las pruebas de usuario hasta que todas pasen
+
+Tarea 6: Despliegue web de la aplicación utilizando Flask (2 puntos)
+
+Actualice server.py con el contenido adecuado
+
+Despliegue la aplicación
+
+Tarea 7: Incorporar la gestión de errores (3 puntos)
+
+Actualice la función emotion_detector para el código de estado, 400 
+
+Actualice el archivo server.py para gestionar los errores de entrada en blanco
+
+Valide la funcionalidad de gestión de errores
+
+Tarea 8: Ejecute el análisis estático del código (2 puntos)
+
+ Actualice el archivo server.py para resaltar el código que obtiene 10/10
+
+ Obtenga una puntuación perfecta en el análisis estático de código
+
+
+i
+Parece que esta es tu primera tarea calificada por los compañeros. Obtener más informacion
+
+¿Estás listo/a para la tarea?
+Abajo, encontrarás instrucciones para realizar el envío.
+Ya está aquí 
+
+Ha completado todas las tareas del proyecto final. Este proyecto vale el 50% de su nota final.
+
+Debe enviar los artefactos (capturas de pantalla) que serán calificados por sus compañeros, que también están completando esta tarea en la misma sesión. 
+
+Revise la sección Criterios de calificación para asegurarse de que ha completado todos los requisitos. 
+
+Tras confirmarlo, puede enviar sus respuestas para que las revisen sus compañeros.
+
+Aquí tiene un resumen de las actividades dentro de cada Tarea y el total de puntos para cada Tarea. 
+
+Nota: Deberá proporcionar capturas de pantalla claras de cada una de las actividades mencionadas a continuación para su calificación.
+
+Puntos totales: 16
+
+Tarea1: Clonar el repositorio del proyecto (1 punto)
+
+Estructura de la carpeta del repositorio
+
+Tarea 2: Cree una aplicación de detección de emociones utilizando la biblioteca Watson NLP (2 puntos)
+
+Escriba el código de la función de la aplicación
+
+Importe la aplicación sin errores
+
+Tarea 3: Dé formato a la salida de la aplicación (2 puntos)
+
+Modifique la función emotion_predictor con precisión para que devuelva el formato de salida proporcionado
+
+Compruebe que el formato de salida es exacto
+
+Tarea 4: Empaquete la aplicación (2 puntos)
+
+Cree la estructura de carpetas para empaquetar la aplicación y cree el archivo __init__.py
+
+Compruebe que la salida es la esperada
+
+Tarea 5: Ejecute pruebas unitarias en su aplicación (2 puntos)
+
+Cree las pruebas unitarias necesarias
+
+Ejecute las pruebas de usuario hasta que todas pasen
+
+Tarea 6: Despliegue web de la aplicación utilizando Flask (2 puntos)
+
+Actualice server.py con el contenido adecuado
+
+Despliegue la aplicación
+
+Tarea 7: Incorporar la gestión de errores (3 puntos)
+
+Actualice la función emotion_detector para el código de estado, 400 
+
+Actualice el archivo server.py para gestionar los errores de entrada en blanco
+
+Valide la funcionalidad de gestión de errores
+
+Tarea 8: Ejecute el análisis estático del código (2 puntos)
+
+ Actualice el archivo server.py para resaltar el código que obtiene 10/10
+
+ Obtenga una puntuación perfecta en el análisis estático de código
+
+
+?u;kmzpSE=6h
+
+URL: 'https://sn-watson-emotion.labs.skills.network/v1/watson.runtime.nlp.v1/NlpService/EmotionPredict'
+Headers: {"grpc-metadata-mm-model-id": "emotion_aggregated-workflow_lang_en_stock"}
+Input json: { "raw_document": { "text": text_to_analyse } }
+
+
+Task 1: Clone the project repository
+Task 2: Create an emotion detection application using Watson NLP library
+Task 3: Format the output of the application
+Task 4: Package the application
+Task 5: Run Unit tests on your application
+Task 6: Deploy as web application using Flask
+Task 7: Incorporate Error handling
+Task 8: Run static code analysis

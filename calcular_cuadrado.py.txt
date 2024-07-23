@@ -1,0 +1,8 @@
+# Leer el número entero desde la entrada estándar
+numero = int(input())
+
+# Calcular el cuadrado del número
+cuadrado = numero * numero
+
+# Imprimir el resultado
+print(cuadrado)
