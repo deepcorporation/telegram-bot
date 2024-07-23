@@ -7,7 +7,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Token del bot obtenido del BotFather
-TOKEN = 'TU_TOKEN_AQUI'
+TOKEN = '7164312594:AAFM02rZbQYwhIu7Hus5Ur0aKVXvseutwsY'
 
 # Diccionario con preguntas frecuentes y respuestas
 FAQ = {
